@@ -2,3 +2,7 @@ main {
     margin: auto;
     text-align: center;
 }
+
+body {
+    font-family: 'Noto Sans JP', sans-serif;
+}
